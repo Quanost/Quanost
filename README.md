@@ -1,9 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Quan Nguyen
 ===================================================================================================================================
 
-As a back-end developer, I am driven by curiosity and always eager to take on new challenges
+I want to be a back-end developer and I'm always open to new challenges
 
 * 🌍  I'm based in Ho Chi Minh city, VietNam
+* 🌱 I’m currently learning Software Engineer in Industrial University of Ho Chi Minh City
 * ✉️  You can contact me at [nguyenquanost1@gmail.com](mailto:nguyenquanost1@gmail.com)
 
 ### Skills
